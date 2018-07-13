@@ -1,0 +1,1 @@
+% Routine to filter hum from Dirac videos% Anthony Daniell% July 10, 2018%clear allfilename = '/Users/anthonydaniell/Desktop/FilesToStay/Research/AudioProcessing/Dirac_1_of_4.mp3'[y, fs] = audioread (filename)%% End of script%
